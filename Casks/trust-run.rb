@@ -1,6 +1,6 @@
 cask "trust-run" do
-  version "1.1.4"
-  sha256 "4fd9fa10fa25fdada8d97331f1ea35b2aa44e13cfe45e1cbc795e33bfe30e5e4"
+  version "1.1.5"
+  sha256 "7d3d5e497f147f290a339283b4e483c32f8267bdc40bcb191d5bf2437340bad6"
 
   url "https://github.com/zlotecki/trustrun-site/releases/download/v#{version}/Trust-Run-#{version}.dmg"
   name "Trust Run"
